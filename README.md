@@ -14,19 +14,15 @@ https://user-images.githubusercontent.com/94404088/225144954-061368ad-fca7-41dd-
 Checkout our Docs at 
 https://taskvault.simple.ink/welcome-to-our-documentation-051eb7c41cd141dda89370650f7cfe97
 
-The Client-Process
+
 
 <img width="1245" alt="Client-Process" src="https://user-images.githubusercontent.com/94404088/225141513-fb857704-2604-4f3a-976c-6e1486cae231.png">
 
 
 
-The Freelancer-Process
-
 <img width="1247" alt="Freelancer-Process" src="https://user-images.githubusercontent.com/94404088/225141833-c8ac74fb-317c-47c7-8fc4-ee909bb13a00.png">
 
 
-
-Dispute Resolution
 
 <img width="318" alt="Dispute Resolution" src="https://user-images.githubusercontent.com/94404088/225141920-1e26e99b-576a-4afe-aff2-a752030800d8.png">
 
