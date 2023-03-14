@@ -18,5 +18,7 @@ Demo
 # Technical Design
 The Process
 
+<img width="1245" alt="Client-Process" src="https://user-images.githubusercontent.com/94404088/225141513-fb857704-2604-4f3a-976c-6e1486cae231.png">
+
 
 
