@@ -48,3 +48,4 @@ Features:
 
 8. Platform Fees: The platform will charge a fee for each job posted and completed. This fee will be deducted from the amount paid by the client and paid to the platform.
 
+ 
