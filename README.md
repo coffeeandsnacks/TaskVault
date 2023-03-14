@@ -8,6 +8,9 @@ TaskVault is a decentralized freelancing platform for Solana and the Web3-Space.
 The Presentation-Slides (which explain the business case) can be found here
 https://docs.google.com/presentation/d/1L-fzGZITXSRK7Bf0kXQg4OpHwDmrP7M_md-2j9L_lZY/edit#slide=id.p
 
+The Presentation-Video can be found here
+https://youtu.be/l0u9nr_on1Y
+
 
 TaskVault is being built, because the status quo of freelancing in web3 is clearly broken. Today, freelancers must establish a high-level of trust with the client first before even being able to work, because there is no easy way to handle escrow payments yet. And existing (web2) freelancing-platforms like upwork or fiverr, do not support stable-coins and charge really high fees (10-25%).
 
