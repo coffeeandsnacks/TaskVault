@@ -6,9 +6,11 @@ TaskVault is a decentralized freelancing platform for Solana and the Web3-Space.
 - TaskVault is a job candidate referal platform to accelerate the solana ecosystem development and earn extra revenue.
 
 The Presentation-Slides (which explain the business case) can be found here
+
 https://docs.google.com/presentation/d/1L-fzGZITXSRK7Bf0kXQg4OpHwDmrP7M_md-2j9L_lZY/edit#slide=id.p
 
 The Presentation-Video can be found here
+
 https://youtu.be/l0u9nr_on1Y
 
 
